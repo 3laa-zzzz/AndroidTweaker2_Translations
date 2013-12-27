@@ -378,146 +378,146 @@
         <item>مطر و برد</item>
         <item>حار</item>
         <item>هبوب عواصف رعدية متفرقة</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered thunderstorms</item>
-        <item>scattered showers</item>
-        <item>heavy snow</item>
-        <item>partly cloudy</item>
-        <item>thundershowers</item>
-        <item>snow showers</item>
-        <item>isolated thundershowers</item>
+        <item>عواصف رعدية متفرقة</item>
+        <item>عواصف رعدية متفرقة</item>
+        <item>مطار متفرقة</item>
+        <item>الثلوج الكثيفة</item>
+        <item>غائم جزئيا</item>
+        <item>زخات مطر رعدية</item>
+        <item>زخات الثلج</item>
+        <item>زخات مطر رعدية معزولة</item>
     </string-array>
 
     <string-array name="week_day">
-        <item>Sunday</item>
-        <item>Monday</item>
-        <item>Tuesday</item>
-        <item>Wednesday</item>
-        <item>Thursday</item>
-        <item>Friday</item>
-        <item>Saturday</item>
+        <item>الاحد</item>
+        <item>الاثنين</item>
+        <item>الثلثاء</item>
+        <item>الاربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
     </string-array>
 
     <!-- Density modder -->
-    <string name="density_modder">Density modder</string>
-    <string name="density_modder_summary">Customize the density (DPI) of your screen!</string>
-    <string name="nav_bar">Navigation bar</string>
-    <string name="nav_bar_summary">Enable navigation bar on device that doesn\'t have it enabled by default. This is not working on every device… Once enabled, don\'t forget to tap the save button</string>
-    <string name="current_density">Current density:</string>
-    <string name="is_tablet">You can\'t remove navigation bar from your device!</string>
+    <string name="density_modder">معدل الدانسيتي dpi</string>
+    <string name="density_modder_summary">عدل الدانسيتي (dpi)الخاصة بجهازك!</string>
+    <string name="nav_bar">سريط التنفل (NAV-B)</string>
+    <string name="nav_bar_summary">تشغيل شريط التنقل (NAV-B) على الجهاز الذي لا يتوفر فيه شريط التنقل بشكل افتراضي...قد لا يعمل على كل الاجهزة...لا تنسى الضغط لى الحفظ قبل الخروج...</string>
+    <string name="current_density">الدانسيتي الحالية:</string>
+    <string name="is_tablet">لا يمكنك ازالة شريط التنقل من جهازك !</string>
 
     <!-- Custom gestures -->
-    <string name="custom_gestures_title">Floating gestures</string>
-    <string name="custom_gestures_summary">Create custom gestures</string>
-    <string name="custom_gestures_pause">Floating gestures is in pause</string>
-    <string name="custom_gestures_enable">Enable</string>
-    <string name="custom_gestures_close">Close</string>
-    <string name="gestures_android_action">Android actions</string>
-    <string name="gestures_application">Applications</string>
-    <string name="gestures_call">Quick call</string>
-    <string name="gestures_sms">Quick SMS</string>
-    <string name="gestures_action_home">Home</string>
-    <string name="gestures_action_torch">Torch</string>
-    <string name="gestures_action_ringer">Ringer mode</string>
-    <string name="button_add">Add gesture</string>
-    <string name="button_reload">Reload</string>
-    <string name="button_discard">Discard</string>
-    <string name="button_done">Done</string>
-    <string name="prompt_gesture_name">Name</string>
-    <string name="error_missing_name">You must enter a name</string>
-    <string name="error_duplicate_name">This name is already in my database</string>
-    <string name="save_success">Gesture saved in %s</string>
-    <string name="rename_action">OK</string>
-    <string name="cancel_action">Cancel</string>
-    <string name="gestures_loading">Loading gestures…</string>
-    <string name="gestures_empty">No gestures</string>
-    <string name="gestures_activity">Gestures</string>
-    <string name="gestures_rename">Rename</string>
-    <string name="gestures_delete">Delete</string>
-    <string name="gestures_delete_success">Gesture deleted</string>
-    <string name="gestures_rename_title">Rename gesture</string>
-    <string name="gestures_rename_label">Gesture name</string>
-    <string name="gestures_error_loading">Could not load %s. Make sure you have storage available.</string>
-    <string name="add_action">Add an action</string>
-    <string name="select_action">Select an action</string>
-    <string name="android_actions">Android actions</string>
-    <string name="gestures_pad_size">Half screen</string>
-    <string name="gestures_inverted_icon">Inverted icon</string>
+    <string name="custom_gestures_title">الافتات العائمة (gestures)</string>
+    <string name="custom_gestures_summary">تعيين لافتة عائمة</string>
+    <string name="custom_gestures_pause">الافتة العائمة في وضعية السكون</string>
+    <string name="custom_gestures_enable">تشغيل</string>
+    <string name="custom_gestures_close">غلق</string>
+    <string name="gestures_android_action">اجرائات الاندرويد</string>
+    <string name="gestures_application">البرامج</string>
+    <string name="gestures_call">الاتصال السريع</string>
+    <string name="gestures_sms">الرسالة القصيرة السريعة</string>
+    <string name="gestures_action_home">القائمة الرئيسية</string>
+    <string name="gestures_action_torch">المصباح</string>
+    <string name="gestures_action_ringer">وضع الرنين</string>
+    <string name="button_add">اضافة جاستر</string>
+    <string name="button_reload">تحديث</string>
+    <string name="button_discard">تخلص</string>
+    <string name="button_done">تم</string>
+    <string name="prompt_gesture_name">الاسم</string>
+    <string name="error_missing_name">عليك وضع اسم</string>
+    <string name="error_duplicate_name">هذا الاسم مستخدم بالفعل</string>
+    <string name="save_success">الجاستر حفظت %ث</string>
+    <string name="rename_action">نعم</string>
+    <string name="cancel_action">الغاء</string>
+    <string name="gestures_loading">تشغيل الجاستر...</string>
+    <string name="gestures_empty">لا يوجد جاستر...</string>
+    <string name="gestures_activity">جاسترات</string>
+    <string name="gestures_rename">تغيير الاسم</string>
+    <string name="gestures_delete">ازالة</string>
+    <string name="gestures_delete_success">تم ازالة الجاستر</string>
+    <string name="gestures_rename_title">تغيير اسم الجاستر</string>
+    <string name="gestures_rename_label">اسم الجاستر</string>
+    <string name="gestures_error_loading">تعذر وضع الجاستر %ث .تاكد من وجود ذاكرة كافية</string>
+    <string name="add_action">اضافة اجراء</string>
+    <string name="select_action">اختر اجراء</string>
+    <string name="android_actions">اجرائات الاندرويد</string>
+    <string name="gestures_pad_size">نصف الشاشة</string>
+    <string name="gestures_inverted_icon">الوان معكوسة</string>
 
     <!-- App Manager -->
-    <string name="all_apps">All apps</string>
-    <string name="user_apps">User apps</string>
-    <string name="system_apps">System apps</string>
-    <string name="new_updated_apps">New and updated apps</string>
-    <string name="custom_list">Custom list</string>
-    <string name="backup">Backup</string>
-    <string name="restore">Restore</string>
-    <string name="backupConfirmation">Backup?</string>
-    <string name="restoreConfirmation">Restore?</string>
-    <string name="restoreApk">Restore apk</string>
-    <string name="restoreData">Restore data</string>
-    <string name="restoreBoth">Restore both</string>
-    <string name="backupApk">Backup apk</string>
-    <string name="backupData">Backup data</string>
-    <string name="backupBoth">Backup both</string>
-    <string name="radioApk">Apk</string>
-    <string name="radioData">Data</string>
-    <string name="radioBoth">Data + Apk</string>
-    <string name="de_selectAll">De/select all</string>
-    <string name="onlyApkBackedUp">Only apk</string>
-    <string name="onlyDataBackedUp">Only data</string>
-    <string name="refresh">Refresh</string>
-    <string name="batchbackup">Batch backup</string>
-    <string name="batchrestore">Batch restore</string>
-    <string name="search">Search</string>
-    <string name="searchHint">Search for apps</string>
-    <string name="deleteBackup">Delete backup</string>
-    <string name="uninstall">Uninstall</string>
-    <string name="uninstallProgress">Uninstalling</string>
-    <string name="showAll">Show all apps</string>
-    <string name="showOnlySystem">Show only system apps</string>
-    <string name="showOnlyUser">Show only user apps</string>
-    <string name="showNotBackedup">Show apps not backed up yet</string>
-    <string name="showNotInstalled">Show apps not installed</string>
-    <string name="showNewAndUpdated">Show new and updated apps</string>
-    <string name="showOldBackups">Show old backups</string>
-    <string name="showOnlyApkBackedUp">Show apps with only apk backed up</string>
-    <string name="showOnlyDataBackedUp">Show apps with only data backed up</string>
-    <string name="sortByLabel">Sort by label</string>
-    <string name="sortByPackageName">Sort by packagename</string>
-    <string name="sort">Sort and filters</string>
-    <string name="uninstallDialogMessage">Uninstall this app?</string>
-    <string name="deleteBackupDialogMessage">Delete backup files?</string>
-    <string name="noBackupYet">No backup yet</string>
-    <string name="restoreDataWithoutApkError">Cannot restore data without restoring apk, package is not installed: </string>
-    <string name="collectingData">Collecting package infos</string>
-    <string name="suCheck">Checking for superuser and busybox</string>
-    <string name="noSu">Couldn\'t get superuser permissions</string>
-    <string name="busyboxProblem">Couldn\'t find busybox. please check error log</string>
-    <string name="mkfileError">Couldn\'t create</string>
-    <string name="fallbackToDefault">Fall back to default</string>
-    <string name="backupFolderError">Please set the correct path in preferences and ensure it exists or is createable</string>
-    <string name="shellReturnSuccess">Success</string>
-    <string name="backupProgress">Backing up</string>
-    <string name="backupSuccess">Backup complete</string>
-    <string name="backupFailure">Error on backup</string>
-    <string name="restoreProgress">Restoring</string>
-    <string name="restoreSuccess">Restore complete</string>
-    <string name="restoreFailure">Error on restore</string>
-    <string name="batchSuccess">Operation complete</string>
-    <string name="batchFailure">Complete with errors</string>
-    <string name="errorDialogTitle">Errors occurred</string>
-    <string name="customListTitle">Custom list</string>
-    <string name="quickReboot">Quick reboot</string>
-    <string name="quickRebootMessage">Do you wish to restart userspace?</string>
-    <string name="enablePackageTitle">Enable for users</string>
-    <string name="disablePackageTitle">Disable for users</string>
-    <string name="prefs_title">Preferences</string>
-    <string name="prefs_timestamp">Use local date format</string>
-    <string name="prefs_acquireWakelock">Acquire wakelock</string>
-    <string name="prefs_summaryAcquireWakelock">Will speed up backups running in the background considerably but will consume more energy</string>
-    <string name="prefs_pathscategory">Custom paths</string>
-    <string name="prefs_pathBackupFolder">Backup folder</string>
+    <string name="all_apps">كل البرامج</string>
+    <string name="user_apps">البرامج الشخصية</string>
+    <string name="system_apps">برامج النظام</string>
+    <string name="new_updated_apps">البرامج الجديدة و تلك التي تم تحديثها</string>
+    <string name="custom_list">قائمة مخصصة</string>
+    <string name="backup">الاحتفظ بنسخة احتياطية</string>
+    <string name="restore">استعادة</string>
+    <string name="backupConfirmation">القيام بالعملية الاحتياط ؟</string>
+    <string name="restoreConfirmation">القيام بعملي الاستعادة المعطيات (data) ؟</string>
+    <string name="restoreApk">استعادة البرنامج</string>
+    <string name="restoreData">استعادة </string>
+    <string name="restoreBoth">استعادة الاثنين</string>
+    <string name="backupApk">نسخ احتياط من البرنامج</string>
+    <string name="backupData">نسخ احتياط من المعطيات</string>
+    <string name="backupBoth">احتياط من الاثنين</string>
+    <string name="radioApk">برنامج apk</string>
+    <string name="radioData">معطيات</string>
+    <string name="radioBoth">المعطيات + البرنامج</string>
+    <string name="de_selectAll">تحديد الكل\الغاء</string>
+    <string name="onlyApkBackedUp">فقط البرامج</string>
+    <string name="onlyDataBackedUp">فقط المعطيات</string>
+    <string name="refresh">تحديث</string>
+    <string name="batchbackup">تحديد الاحتياط</string>
+    <string name="batchrestore">تحديد الاستعادة</string>
+    <string name="search">بحث</string>
+    <string name="searchHint">بحث في البرامج</string>
+    <string name="deleteBackup">محو الاحتياط</string>
+    <string name="uninstall">الغاء التثبيت</string>
+    <string name="uninstallProgress">بدأ الغاء التثبيت</string>
+    <string name="showAll">اظهار كل البرامج</string>
+    <string name="showOnlySystem">اظهار كل برامج النظام</string>
+    <string name="showOnlyUser">اظهار كل البرامج الخاصة</string>
+    <string name="showNotBackedup">اظهار البرامج التي لم يكون احتياط لها</string>
+    <string name="showNotInstalled">اظهار البرامج الغير مثبتة</string>
+    <string name="showNewAndUpdated">اظهار البرامج الجديدة و تلك التي تم تحديثها</string>
+    <string name="showOldBackups">اظهار الاحتياط القديم</string>
+    <string name="showOnlyApkBackedUp">اظهار البرامج التي لها احتياط apk فقط</string>
+    <string name="showOnlyDataBackedUp">اظهار احتياط المعطيات فقط</string>
+    <string name="sortByLabel">ترتيب حسب التسمية</string>
+    <string name="sortByPackageName">ترتيب حسب الاسم</string>
+    <string name="sort">ترتيب حسب النوع</string>
+    <string name="uninstallDialogMessage">الغاء تثبيت هذا البرنامج ؟</string>
+    <string name="deleteBackupDialogMessage">اذالة احتياط المعطيات</string>
+    <string name="noBackupYet">لا احتياط متوفر</string>
+    <string name="restoreDataWithoutApkError">غير قادر على استعادة البرنامج بدون المعطيات</string>
+    <string name="collectingData">جمع معلومات حول الحزمة (apk)</string>
+    <string name="suCheck">تفحص وجود ال busybox و superuser</string>
+    <string name="noSu">غير قادلر على الحصول على موافقة ال superuser</string>
+    <string name="busyboxProblem">ال busybox غير متوفر .الرجاء التحقق من التقرير</string>
+    <string name="mkfileError">غير قادر على التطبيق</string>
+    <string name="fallbackToDefault">استعدة الضبط الاساسي</string>
+    <string name="backupFolderError">الرجاء اختيار المسار الصحيح في مكان الضبط و التاكد من وجوده او امكاني ايجاده</string>
+    <string name="shellReturnSuccess">نجح العمل</string>
+    <string name="backupProgress">عملية صنع الاحتياط بدات</string>
+    <string name="backupSuccess">اكتملت عملية الاحتياط</string>
+    <string name="backupFailure">فشلت عملية الاحتياط</string>
+    <string name="restoreProgress">عملية الاستعادة بدات</string>
+    <string name="restoreSuccess">نجحت عملية الاستعادة</string>
+    <string name="restoreFailure">فشلت عملية الاستعادة</string>
+    <string name="batchSuccess">نجحت العملية</string>
+    <string name="batchFailure">لم تنجح العملة بشكل كامل</string>
+    <string name="errorDialogTitle">حدث خطا ما</string>
+    <string name="customListTitle">قائمة مخصصة شخصيا</string>
+    <string name="quickReboot">اعادة تشغيل سريعة</string>
+    <string name="quickRebootMessage">هل تريد اعادة تشغيل اليوزر سبايس?</string>
+    <string name="enablePackageTitle">تفعيل للمستخدم</string>
+    <string name="disablePackageTitle">ايقاف للمستخدم</string>
+    <string name="prefs_title">الخيارات</string>
+    <string name="prefs_timestamp">استخدام التاريخ المحلي</string>
+    <string name="prefs_acquireWakelock">اكتساب الوايك لوك (wakelock)</string>
+    <string name="prefs_summaryAcquireWakelock">سوف تسرع عملية نسخ الاحتياط و لكن قد تستخدم طاقة اكثر</string>
+    <string name="prefs_pathscategory">مسار خاص</string>
+    <string name="prefs_pathBackupFolder">الفولدير الذي سبوضع الاحتياط فيه</string>
     <string name="prefs_summaryBackupFolder">Path to backup folder. leave blank for default.</string>
     <string name="prefs_pathLogfile">Logfile</string>
     <string name="prefs_summaryLogfile">Path to logfile. leave blank for default.</string>
